@@ -2,3 +2,4 @@ Hello
 how are you?
 I am fine thank you.
 How is the weather?
+The weather is rainy.
